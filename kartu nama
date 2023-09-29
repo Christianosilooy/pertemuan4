@@ -61,6 +61,6 @@ fun MessageCard(msg: Message) {
 @Composable
 fun PreviewMessageCard() {
     MessageCard(
-        msg = Message("Colleague", "Hey, take a look at Jetpack Compose, it's great!")
+        msg = Message("215410018", "Hey, HAY CHRISTIANO IMANUEL SILOOY!")
     )
 }
